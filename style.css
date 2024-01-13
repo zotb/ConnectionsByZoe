@@ -1,0 +1,29 @@
+h1 {
+    font-size: 50px;
+    font-family: monospace;
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 60px;
+}
+
+button {
+    font-family: monospace;
+    font-size: 20px;
+    width: 25%;
+    background-color: rgb(241, 215, 225);
+    border-radius: 12px;
+    padding: 32px 16px;
+}
+/* style button when pressed, pressed again */ 
+
+.game-container {
+    width: 800px;
+    padding: 50px 100px 100px;
+    border-style:dashed;
+    text-align: center;
+}
+
+#attempts {
+    font-family: monospace;
+    font-size: 20px;
+}
